@@ -26,8 +26,9 @@ ls [ options ] [ fichier | rép ]
 
 ## Flags
 
-|ls -a|répertorie tous les fichiers, y compris les fichiers cachés commençant par '.'|
+|Option|Description|
 |--|--|
+|ls -a|répertorie tous les fichiers, y compris les fichiers cachés commençant par '.'|
 |ls -l|liste au format long - afficher les autorisations|
 |ls -la|liste au format long, y compris les fichiers cachés|
 |ls -R|répertorier récursivement l'arborescence des répertoires|
