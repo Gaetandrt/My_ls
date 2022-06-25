@@ -16,7 +16,7 @@ ls est une commande [POSIX](https://fr.wikipedia.org/wiki/POSIX) (abréviation d
 
 Pour lancer la commande ls, il vous suffit de compiler et de lancer le binaire comme ceci :
 
-[![ls_command]https://user-images.githubusercontent.com/91087072/175772481-e808e3e6-7448-46e6-a4f4-a2e706f4630d.png)](https://user-images.githubusercontent.com/91087072/175772481-e808e3e6-7448-46e6-a4f4-a2e706f4630d.png)
+[![ls_command](https://user-images.githubusercontent.com/91087072/175772481-e808e3e6-7448-46e6-a4f4-a2e706f4630d.png)](https://user-images.githubusercontent.com/91087072/175772481-e808e3e6-7448-46e6-a4f4-a2e706f4630d.png)
 
 L'execution du binaire écrira sur la sortie standard le contenu du répertoire courant.
 
