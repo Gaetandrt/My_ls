@@ -20,12 +20,29 @@ Pour lancer la commande ls, il vous suffit de compiler et de lancer le binaire c
 
 L'execution du binaire écrira sur la sortie standard le contenu du répertoire courant.
 
+## Syntaxe
+
+ls [ options ] [ fichier | rép ]
+
 ## Flags
 
+|ls -a|répertorie tous les fichiers, y compris les fichiers cachés commençant par '.'|
 |--|--|
-|  |  |
+|ls -l|liste au format long - afficher les autorisations|
 |--|--|
-|  |  |
+|ls -la|liste au format long, y compris les fichiers cachés|
+|--|--|
+|ls -R|répertorier récursivement l'arborescence des répertoires|
+|--|--|
+|ls -t|trier par heure et date|
+|--|--|
+|ls -ls|liste au format long avec taille de fichier|
+|--|--|
+|ls -s|lister la taille du fichier|
+|--|--|
+|ls -i|liste le numéro d'index inode du fichier|
+|--|--|
+|ls -r|liste dans l'ordre inverse|
 
 ## Fabriqué avec
 
